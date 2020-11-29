@@ -6,7 +6,7 @@
 
 其实想用Len的，但是处于某些原因还有三个字的域名太贵了，好吧就手动加长了。
 
-青柚工作室打杂的，实习期。
+青柚工作室打杂的。
 
 <img align="right" alt="Len's github stats" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Len-Jon&layout=compact&hide_title=true&hide=html">
 
