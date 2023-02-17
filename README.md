@@ -2,9 +2,8 @@
 
 
 
-<img align="right" alt="Len's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=Len-Jon&show_icons=true&bg_color=120,F5FDFF,FFFFFF">[个人博客](https://lenjon.top)
+<!-- <img align="right" alt="Len's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=Len-Jon&show_icons=true&bg_color=120,F5FDFF,FFFFFF">[个人博客](https://lenjon.top) -->
 
-其实想用Len的，但是处于某些原因还有三个字的域名太贵了，好吧就手动加长了。
 
 青柚工作室打杂的。
 
